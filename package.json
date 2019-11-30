@@ -1,0 +1,22 @@
+{
+  "name": "278bid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@intergroupsite/gatsby-theme-intergroup-site": "^1.1.0",
+    "gatsby": "^2.18.5",
+    "lodash": "^4.17.15",
+    "lodash.merge": "^4.6.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
