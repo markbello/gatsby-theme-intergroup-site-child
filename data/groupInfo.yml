@@ -1,8 +1,8 @@
-- name: The 278 Bid for ICYPAA
-  fellowshipAcronym: AA
-  fellowshipLongName: Alcoholics Anonymous
-  groupDescription: The 278 Bid for ICYPAA represents young people in AA seeking to bring the International Convention of Young People in AA (ICYPAA) to either Brooklyn or Queens. We hold our business meetings on the second and fourth Sundays of the month.
-  city: New York
-  state: NY
-  country: USA
-  cmsGroupId: 1
+- name: Name of Your Group
+  fellowshipAcronym: GA
+  fellowshipLongName: Generic Anonymous
+  groupDescription: A one-paragraph description of your group, which will be the primary text search engines use to index your page. This should contain basic information that is unlikely to change, since it is baked into your site. Everything about your group that can change over time should be loaded in from the CMS so you don't ever have to change this.
+  city: Your City
+  state: Your State
+  country: Your Country
+  cmsGroupId: 0
