@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@intergroupsite/gatsby-theme-intergroup-site": "^1.2.2",
-    "gatsby": "^2.18.5",
+    "gatsby": "^2.32.13",
     "lodash": "^4.17.15",
     "lodash.merge": "^4.6.2",
     "react": "^16.12.0",
